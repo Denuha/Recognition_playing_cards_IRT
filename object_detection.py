@@ -9,7 +9,7 @@ import tensorflow as tf
 
 dd = {0: 'C2', 1: 'C3', 2: 'C4', 3: 'C5', 4: 'C6', 5: 'D2', 6: 'D3', 7: 'D4', 8: 'D5', 9: 'D6', 10: 'H2', 11: 'H3', 12: 'H4', 13: 'H5', 14: 'H6', 15: 'S2', 16: 'S3', 17: 'S4', 18: 'S5', 19: 'S6'}
 
-new_model = tf.keras.models.load_model('model_my_photos_15epochs_4.h5')
+new_model = tf.keras.models.load_model('model.h5')
 
 # initialize the video stream, allow the cammera sensor to warmup,
 # and initialize the FPS counter

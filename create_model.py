@@ -103,5 +103,5 @@ model.fit(x_train, y_train,
               validation_data=(x_train, y_train),
               shuffle=True)
 
-model.save('model_my_photos_15epochs_4.h5')
+model.save('model.h5')
 print("model saved")
