@@ -1,4 +1,4 @@
-# Распознование игральных карт в видеопотоке
+# Распознавание игральных карт в видеопотоке
 
 *cards_imgs* contains my dataset of photos playing cards  
 
