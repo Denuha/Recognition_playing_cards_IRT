@@ -1,10 +1,7 @@
 import os
 import cv2
 
-path1 = "my_photos/"
-path2 = "my_photos2/"
-path3 = "my_photos3/"
-
+path1 = "cards_imgs/"
 res_path = "result_photos/"
 
 x_train_cards = []
